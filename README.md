@@ -1,0 +1,2 @@
+# Traffic-violations-prediction-using-XLMiner
+In this project several search questions are answered using predictive modeling by analyzing big data considering a Real time data set of Traffic violations in Maryland state. This includes prediction various patterns of likeliness of a violation to happen at a geographic location, moreover certain attributes are coupled in order to predict patterns in violations.
